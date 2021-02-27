@@ -1,4 +1,4 @@
-# Hi there, I'm Duda! 👩‍💻
+# Hi there, I'm Duda! 👩🏻‍💻
 
 Software development enthusiast, currently diving into the iOS development world 🍎
 </br>
@@ -41,7 +41,7 @@ Software development enthusiast, currently diving into the iOS development world
 
 </br>
 
-## Connect with me 🙋‍♀️
+## Connect with me 🙋🏻‍♀️
 
 <p><a href="https://www.linkedin.com/in/eduardaporto">
 <img align="left" alt="LinkedIn" width=50px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
