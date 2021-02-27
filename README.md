@@ -9,7 +9,6 @@ Software development enthusiast, currently diving into the iOS development world
 - Information Systems Student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
 - Computer Network technician by [CEFET-MG](https://www.cefetmg.br) 🖥️
 
-</br>
 
 ## Most used languages and tools
 
@@ -32,14 +31,12 @@ Software development enthusiast, currently diving into the iOS development world
 
 
 </br>
-</br>
-</br>
+
 
 ## Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c)](https://github.com/dudaporto/github-readme-stats)
 
-</br>
 
 ## Connect with me 🙋🏻‍♀️
 
