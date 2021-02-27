@@ -25,7 +25,7 @@ Software development enthusiast, currently diving into the iOS development world
 <img align="left" alt="Bitrise" width=45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwBfhsPl9ZHqtp-hV9TaLb0NfbNN0iJOkhAg&usqp=CAU" /> 
 </a>
 <a href="https://www.java.com/">
-<img align="left" alt="Java" width=40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2D52v_0f86wy9VUB2HXp5k5wsMPgAy7Uz9g&usqp=CAU"/>
+<img align="left" alt="Java" width=40px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png"/>
 </a>
 
 
