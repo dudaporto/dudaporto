@@ -9,8 +9,7 @@ Software development enthusiast, currently diving into the iOS development world
 - Information Systems Student at [PUC Minas](pucminas.br) 📚
 - Computer Network technician by [CEFET-MG](cefetmg.br) 🖥️
 
-
-
+</br>
 
 ## Most used languages and tools:
 <img align="left" alt="Swift"  width="45px" src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" />
