@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Duda 👋
+
+#### About me:
+
+- iOS Developer at [Letras](letras.mus.br)
+- Information Systems Student at [PUC Minas](pucminas.br)
+- Computer Network technician by [CEFET-MG](cefetmg.br)
+
+
 
 <!--
 **dudaporto/dudaporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
