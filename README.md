@@ -6,7 +6,7 @@ Software development enthusiast, currently diving into the iOS development world
 ## Activities
 
 - iOS Developer at [Letras](https://www.letras.mus.br/) ⭐
-- Information Systems Student at [PUC Minas](https://www.pucminas.br) 📚
+- Information Systems Student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
 - Computer Network technician by [CEFET-MG](https://www.cefetmg.br) 🖥️
 
 </br>
