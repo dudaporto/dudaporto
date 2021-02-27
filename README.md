@@ -39,10 +39,13 @@ Software development enthusiast, currently diving into the iOS development world
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c)](https://github.com/dudaporto/github-readme-stats)
 
 
+## Streak
+
+[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&%22%20alt=%22dudaporto)
+
 ## Connect with me 🙋🏻‍♀️
 
 <p><a href="https://www.linkedin.com/in/eduardaporto">
 <img align="left" alt="LinkedIn" width=50px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
 </a></p>
-
 
