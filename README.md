@@ -30,4 +30,8 @@ Software development enthusiast, currently diving into the iOS development world
 
 ## Connect with me 🙋‍♀️
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardaporto/)](https://www.linkedin.com/in/eduardaporto/)
+<p><a href="https://www.linkedin.com/in/eduardaporto">
+<img align="left" alt="LinkedIn" width=50px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
+</a></p>
+
+
