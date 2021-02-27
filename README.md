@@ -1,7 +1,6 @@
 # Hi there, I'm Duda! 👩‍💻
 
 Software development enthusiast, currently diving into the iOS development world 🍎
-
 </br>
 
 ## Activities
