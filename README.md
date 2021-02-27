@@ -25,7 +25,7 @@ Software development enthusiast, currently diving into the iOS development world
 <img align="left" alt="Bitrise" width=45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwBfhsPl9ZHqtp-hV9TaLb0NfbNN0iJOkhAg&usqp=CAU" /> 
 </a>
 <a href="https://www.java.com/">
-<img align="left" alt="Java" width=40px" src="https://sm.pcmag.com/pcmag_uk/news/o/oracle-goo/oracle-google-verdict-samsung-focus-2-googles-self-driving-c_gncc.jpg"/>
+<img align="left" alt="Java" width=40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2D52v_0f86wy9VUB2HXp5k5wsMPgAy7Uz9g&usqp=CAU"/>
 </a>
 
 
