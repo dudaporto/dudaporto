@@ -11,7 +11,7 @@ Software development enthusiast, currently diving into the iOS development world
 
 </br>
 
-## Most used languages and tools:
+## Most used languages and tools
 <img align="left" alt="Swift"  width="45px" src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" />
 <img align="left" alt="XCode" width=50px" src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/88/2a/d0882a24-5851-8833-ec52-5e2792e7ac8a/Xcode-85-220-0-4-2x.png/1200x630bb.png" /> 
 <img align="left" alt="Git" width=45px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> 
