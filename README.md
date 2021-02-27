@@ -41,7 +41,7 @@ Software development enthusiast, currently diving into the iOS development world
 
 ## Streak
 
-<p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&" alt="dudaporto" /></p>
+<p><img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&" alt="dudaporto" /></p>
 
 ## Connect with me 🙋🏻‍♀️
 
