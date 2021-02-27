@@ -1,4 +1,4 @@
-# Hi there, I'm Duda!
+# Hi there, I'm Duda! 👩‍💻
 
 Software development enthusiast, currently diving into the iOS development world 🍎
 
@@ -6,7 +6,7 @@ Software development enthusiast, currently diving into the iOS development world
 
 - iOS Developer at [Letras](letras.mus.br) ⭐
 - Information Systems Student at [PUC Minas](pucminas.br) 📚
-- Computer Network technician by [CEFET-MG](cefetmg.br) 👩‍💻
+- Computer Network technician by [CEFET-MG](cefetmg.br) 🖥️
 
 ---
 
@@ -18,6 +18,7 @@ Software development enthusiast, currently diving into the iOS development world
 <img align="left" alt="Bitrise" width=45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwBfhsPl9ZHqtp-hV9TaLb0NfbNN0iJOkhAg&usqp=CAU" /> 
 <img align="left" alt="Java" width=40px" src="https://sm.pcmag.com/pcmag_uk/news/o/oracle-goo/oracle-google-verdict-samsung-focus-2-googles-self-driving-c_gncc.jpg"/>
 
+</br>
 </br>
 
 ---
