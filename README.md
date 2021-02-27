@@ -2,6 +2,8 @@
 
 Software development enthusiast, currently diving into the iOS development world 🍎
 
+</br>
+
 ## Activities
 
 - iOS Developer at [Letras](letras.mus.br) ⭐
@@ -19,11 +21,14 @@ Software development enthusiast, currently diving into the iOS development world
 
 </br>
 </br>
+</br>
 
 ## Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c)](https://github.com/dudaporto/github-readme-stats)
+
 </br>
+
 ## Connect with me 🙋‍♀️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardaporto/)](https://www.linkedin.com/in/eduardaporto/)
