@@ -8,8 +8,7 @@ Software development enthusiast, currently diving into the iOS development world
 - Information Systems Student at [PUC Minas](pucminas.br) 📚
 - Computer Network technician by [CEFET-MG](cefetmg.br) 🖥️
 
----
-
+</br>
 
 ## Most used languages and tools:
 <img align="left" alt="Swift"  width="40px" src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" />
@@ -21,13 +20,10 @@ Software development enthusiast, currently diving into the iOS development world
 </br>
 </br>
 
----
-
 ## Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c)](https://github.com/dudaporto/github-readme-stats)
-
----
-
+</br>
 ## Connect with me 🙋‍♀️
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardaporto/)](https://www.linkedin.com/in/eduardaporto/)
