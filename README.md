@@ -46,6 +46,6 @@ Software development enthusiast, currently diving into the iOS development world
 ## Connect with me 🙋🏻‍♀️
 
 <p><a href="https://www.linkedin.com/in/eduardaporto">
-<img align="left" alt="LinkedIn" width=50px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
+<img align="left" alt="LinkedIn" width=45px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
 </a></p>
 
