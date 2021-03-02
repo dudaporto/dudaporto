@@ -4,9 +4,9 @@
 
 ## Activities
 
-- iOS Developer at [Letras](https://www.letras.mus.br/) ⭐
-- Information Systems Student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
-- Computer Network technician by [CEFET-MG](https://www.cefetmg.br) 🖥️
+- ⭐ iOS Developer at [Letras](https://www.letras.mus.br/)
+- 📚 Information Systems Student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 
+- 🖥️ Computer Network technician by [CEFET-MG](https://www.cefetmg.br) 
 
 
 ## Most used languages and tools
