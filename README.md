@@ -36,16 +36,15 @@
 
 ## Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c)](https://github.com/dudaporto/github-readme-stats)
-
+<p><img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c"/></p>
 
 ## Streak
 
-<p><img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&" alt="dudaporto" /></p>
+<p><img align="center" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&" alt="dudaporto" /></p>
 
 ## Connect with me 🙋🏻‍♀️
 
 <p><a href="https://www.linkedin.com/in/eduardaporto">
-<img align="left" alt="LinkedIn" width=45px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
+<img align="left" alt="LinkedIn" width=40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
 </a></p>
 
