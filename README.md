@@ -1,6 +1,6 @@
 # Hi there, I'm Duda! 👩🏻‍💻
 
-**Exploring the iOS development world  **
+**_Exploring the iOS development world_** 
 </br>
 
 ## Activities
