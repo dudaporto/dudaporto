@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Duda, a software development enthusiast exploring the iOS development world
+I'm Duda, a software developer exploring the iOS world 
 
 
 
