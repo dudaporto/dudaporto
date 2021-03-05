@@ -36,8 +36,8 @@ Software developer exploring the iOS development world 🍎
 ## Stats
 
 <div>
-<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=radical"/>
-<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=radical" alt="dudaporto" />
+<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=radical&hide_border=true"/>
+<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=radical&hide_border=true" alt="dudaporto" />
 </div>
 
 </br>
