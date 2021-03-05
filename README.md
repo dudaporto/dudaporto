@@ -1,6 +1,8 @@
 # Hi there, I'm Duda! 👋
 
-Software developer exploring the iOS development world 👩🏻‍💻 
+Software developer exploring the iOS development world <img src="https://img.shields.io/badge/-0E1116?&logo=apple&logoColor=white">
+
+
 
 ## About me
 
@@ -42,6 +44,6 @@ Software developer exploring the iOS development world 👩🏻‍💻
 ## Connect with me 🙋🏻‍♀️
 
 <a href="https://www.linkedin.com/in/eduardaporto">
-<img align="center" alt="LinkedIn" width=40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
+<img align="center" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white&logoWidth=20"/>
 </a></p>
 
