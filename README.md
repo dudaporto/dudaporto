@@ -12,19 +12,19 @@ Software developer exploring the iOS development world 👩🏻‍💻
 ## Most used languages and tools
 
 <a href="https://developer.apple.com/swift/">
-<img align="left" alt="Swift"  width="40px" src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" />
+<img align="left" alt="Swift"  height="20px" src="https://img.shields.io/badge/-Swift-FA7343?&logo=swift&logoColor=white&logoWidth=20" />
 </a>
 <a href="https://apps.apple.com/br/app/xcode/id497799835?mt=12">
-<img align="left" alt="XCode" width="45px" src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/88/2a/d0882a24-5851-8833-ec52-5e2792e7ac8a/Xcode-85-220-0-4-2x.png/1200x630bb.png" /> 
+<img align="left" alt="XCode" height="20px" src="https://img.shields.io/badge/-XCode-1575F9?&logo=xcode&logoColor=white&logoWidth=20" /> 
 </a>
 <a href="https://git-scm.com/">
-<img align="left" alt="Git" width=40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> 
+<img align="left" alt="Git" height="20px" src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white&logoWidth=20" /> 
 </a>
 <a href="https://www.bitrise.io/">
-<img align="left" alt="Bitrise" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwBfhsPl9ZHqtp-hV9TaLb0NfbNN0iJOkhAg&usqp=CAU" /> 
+<img align="left" alt="Bitrise" height="20px" src="https://img.shields.io/badge/-Bitrise-683D87?&logo=bitrise&logoColor=white&logoWidth=20" /> 
 </a>
 <a href="https://www.java.com/">
-<img align="left" alt="Java" width=45px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png"/>
+<img align="left" alt="Java" height="20px" src="https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white&logoWidth=20"/>
 </a>
 
 
