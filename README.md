@@ -2,7 +2,7 @@
 
 Software developer exploring the iOS development world 🍎 
 
-## Activities
+## About me
 
 - iOS Developer at [Letras](https://www.letras.mus.br/) ⭐
 - Information Systems Student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
