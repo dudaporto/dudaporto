@@ -1,6 +1,6 @@
-# Hi there, I'm Duda! 👋
+# Hi there! 👋
 
-Software developer exploring the iOS development world <img src="https://img.shields.io/badge/-0E1116?&logo=apple&logoColor=white">
+I'm Duda, a software development enthusiast exploring the iOS development world
 
 
 
@@ -35,8 +35,8 @@ Software developer exploring the iOS development world <img src="https://img.shi
 ## Stats
 
 <div>
-<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=radical&hide_border=true"/>
-<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=radical&hide_border=true" alt="dudaporto" />
+<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=dark&hide_border=true"/>
+<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=dark&hide_border=true" alt="dudaporto" />
 </div>
 
 </br>
