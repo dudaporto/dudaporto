@@ -1,10 +1,10 @@
 # Hi there, I'm Duda! 👩🏻‍💻
 
-Software developer exploring the iOS development world 🍎 
+Software developer exploring the iOS development world :)
 
 ## About me
 
-- iOS Developer at [Letras](https://www.letras.mus.br/) ⭐
+- iOS Developer at [Letras](https://www.letras.mus.br/) 
 - Information Systems Student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
 - Computer Network technician by [CEFET-MG](https://www.cefetmg.br) 🖥️
 
