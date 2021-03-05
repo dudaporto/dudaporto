@@ -35,7 +35,7 @@
 
 ## Top Langs
 
-<p><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c"/></p>
+<p><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=onedark"/></p>
 
 ## Streak
 
