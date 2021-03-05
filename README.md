@@ -35,11 +35,11 @@
 
 ## Top Langs
 
-<p><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=onedark"/></p>
+<p><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=radical"/></p>
 
 ## Streak
 
-<p><img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&" alt="dudaporto" /></p>
+<p><img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=radical" alt="dudaporto" /></p>
 
 ## Connect with me 🙋🏻‍♀️
 
