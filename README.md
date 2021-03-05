@@ -33,13 +33,13 @@
 </br>
 
 
-## Top Langs
+## Stats
 
-<p><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=radical"/></p>
+<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=radical"/>
 
-## Streak
+<img align="left" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=radical" alt="dudaporto" />
 
-<p><img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=radical" alt="dudaporto" /></p>
+<br>
 
 ## Connect with me 🙋🏻‍♀️
 
