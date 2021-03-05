@@ -35,15 +35,16 @@
 
 ## Stats
 
+<div>
 <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=radical"/>
-
 <img align="left" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=radical" alt="dudaporto" />
+</div>
 
-<br>
+</br>
 
 ## Connect with me 🙋🏻‍♀️
 
-<p><a href="https://www.linkedin.com/in/eduardaporto">
+<a href="https://www.linkedin.com/in/eduardaporto">
 <img align="left" alt="LinkedIn" width=40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"/>
 </a></p>
 
