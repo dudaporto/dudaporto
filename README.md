@@ -2,8 +2,6 @@
 
 Software developer exploring the iOS development world 🍎 
 
-</br>
-
 ## Activities
 
 - iOS Developer at [Letras](https://www.letras.mus.br/) ⭐
