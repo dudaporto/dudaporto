@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-I'm Duda, a software developer exploring the iOS world. 👩🏻‍💻 🍎 
-
+I'm Duda, a software developer exploring the iOS world. 👩🏻‍💻 
 
 
 ## About me
