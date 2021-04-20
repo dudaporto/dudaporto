@@ -34,7 +34,7 @@ I'm Duda, a software developer exploring the iOS world 👩🏻‍💻 
 ## Stats
 
 <div>
-<img align="left" width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=dark&hide_border=true"/>
+<img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=dark&hide_border=true"/>
 </div>
 
 </br>
