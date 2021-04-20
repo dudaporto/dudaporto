@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Duda, a software developer exploring the iOS world. 👩🏻‍💻 
+I'm Duda, a software developer exploring the iOS world 👩🏻‍💻 
 
 
 ## About me
@@ -35,7 +35,6 @@ I'm Duda, a software developer exploring the iOS world. 👩🏻‍💻 
 
 <div>
 <img align="left" width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaporto&layout=compact&hide=c&theme=dark&hide_border=true"/>
-<img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaporto&theme=dark&hide_border=true" alt="dudaporto" />
 </div>
 
 </br>
