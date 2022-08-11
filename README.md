@@ -24,10 +24,6 @@ I'm Duda, a software developer exploring the iOS world 👩🏻‍💻 
 <a href="https://www.bitrise.io/">
 <img align="left" alt="Bitrise" height="20px" src="https://img.shields.io/badge/-Bitrise-683D87?&logo=bitrise&logoColor=white&logoWidth=20" /> 
 </a>
-<a href="https://www.java.com/">
-<img align="left" alt="Java" height="20px" src="https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white&logoWidth=20"/>
-</a>
-
 
 </br>
 
