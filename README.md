@@ -5,9 +5,9 @@ I'm Duda, a software developer exploring the iOS world 👩🏻‍💻 
 
 ## About me
 
-- iOS Developer at [Cora](https://www.cora.com.br/) 💗
-- Information Systems Student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 📚
-- Computer Network technician by [CEFET-MG](https://www.cefetmg.br) 🖥️
+- iOS Developer at [Cora](https://www.cora.com.br/) 
+- Information Systems at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 
+- Computer Network technician by [CEFET-MG](https://www.cefetmg.br) 🖥
 
 
 ## Most used languages and tools
