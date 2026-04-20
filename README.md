@@ -5,7 +5,7 @@ I'm Duda, a software developer exploring the iOS world 👩🏻‍💻 
 
 ## About me
 
-- iOS Developer at [Cora](https://www.cora.com.br/) 
+- iOS Developer at [Papaya](https://papayapay.com) 
 - Information Systems at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 
 - Computer Network technician by [CEFET-MG](https://www.cefetmg.br) 🖥
 
